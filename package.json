@@ -1,7 +1,11 @@
 {
-  "name": "awesome-module",
+  "name": "awesome-module-ascension",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test Simple Component",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-shams-ascension/awesome-module.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
